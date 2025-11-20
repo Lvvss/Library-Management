@@ -40,8 +40,3 @@ LibManSys/
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
-[git clone https://github.com/jorelle007/LibManSys.git](https://github.com/Lvvss/Library-Management.git)
